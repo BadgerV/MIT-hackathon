@@ -12,6 +12,7 @@ export const SplashContainer = styled.div`
       url("/assets/images/Hero.png");
     background-repeat: no-repeat;
     background-position: 100%;
+    background-size: contain;
   }
 `;
 
