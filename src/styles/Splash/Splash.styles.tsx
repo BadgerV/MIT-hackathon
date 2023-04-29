@@ -17,7 +17,7 @@ export const SplashContainer = styled.div`
 `;
 
 export const SplashContent = styled.div`
-  z-index: 2;
+  z-index: 3;
 
   display: flex;
   flex-direction: column;
